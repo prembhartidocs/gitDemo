@@ -22,3 +22,4 @@ obligation - An act or course of action to which a person is morally or legally 
 deliberate - Engage in long and careful consideration.
 retaliate - Make an attack or assault in return for a similar attack.
 Sorcerers - A person who claims or is believed to have magic powers; a wizard.
+dog - a biting animal
